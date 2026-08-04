@@ -13,11 +13,11 @@ h2 {
 }
 
 p {
-    color: #444;
+    color: #422323d5;
 }
 
 a {
-    color: #333;
+    color: #745252;
     text-decoration: none;
 }
 
@@ -27,12 +27,12 @@ a {
    ======================================== */
 
 .cargo {
-    color: #666;
+    color: #9c8e8e;
     font-weight: bold;
 }
 
 .link-social {
-    color: #333;
+    color: #9c8e8e;
     text-decoration: none;
 }
 
